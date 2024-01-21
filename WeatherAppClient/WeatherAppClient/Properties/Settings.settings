@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WeatherAppClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Action" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Akcja</Value>
+    </Setting>
+    <Setting Name="Author" Type="System.String" Scope="User">
+      <Value Profile="(Default)">O autorze</Value>
+    </Setting>
+    <Setting Name="Close" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Zamknij</Value>
+    </Setting>
+    <Setting Name="Information" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pełna informacja</Value>
+    </Setting>
+    <Setting Name="City" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wybrane miasto</Value>
+    </Setting>
+    <Setting Name="MapPolish" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mapa Polski</Value>
+    </Setting>
+    <Setting Name="BaseUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://localhost:7054</Value>
+    </Setting>
+    <Setting Name="WeatherController" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/api/PublicData</Value>
+    </Setting>
+    <Setting Name="GetAllWeather" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pobierz aktualne dane pogodowe</Value>
+    </Setting>
+    <Setting Name="ChoseCityName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wybierz miasto:</Value>
+    </Setting>
+    <Setting Name="LoadCurrentData" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wczytaj aktualne dane</Value>
+    </Setting>
+    <Setting Name="Status" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Stan</Value>
+    </Setting>
+    <Setting Name="Humidity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wilgotność</Value>
+    </Setting>
+    <Setting Name="Temperature" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Temperatura</Value>
+    </Setting>
+    <Setting Name="Pressure" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ciśnienie</Value>
+    </Setting>
+    <Setting Name="ClientToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2e9cdfa3-1bbb-4419-b0f6-ab9640f2d520</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
